@@ -1,4 +1,3 @@
-// Fila.java - Implementação de fila com lista encadeada
 public class Fila {
     private No inicio;
     private No fim;
