@@ -15,8 +15,8 @@
 ## Como Executar
 
 1. **Clone o repositório**
-   ```bash
-   git clone https://github.com/C4rlosJeronimo/Atv_Pratica_supervisionada/tree/main/src
+   ```
+   https://github.com/C4rlosJeronimo/Atv_Pratica_supervisionada/tree/main/src
    ```
 
 2. **Compile os arquivos**
