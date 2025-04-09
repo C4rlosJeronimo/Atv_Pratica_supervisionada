@@ -16,8 +16,7 @@
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/APS-Estrutura-Dados.git
-   cd APS-Estrutura-Dados/src
+   git clone https://github.com/C4rlosJeronimo/Atv_Pratica_supervisionada/tree/main/src
    ```
 
 2. **Compile os arquivos**
