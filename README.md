@@ -1,6 +1,6 @@
 # Atv_Pratica_supervisionada
 
-## ✅ Conteúdo
+## Conteúdo
 
 - **Pilha com Lista Encadeada**
 - **Fila com Lista Encadeada**
@@ -30,7 +30,7 @@
    java Main
    ```
 
-## 💡 Exemplos Utilizados
+## Exemplos Utilizados
 
 ### Fila Encadeada A
 ```
